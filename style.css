@@ -4,10 +4,11 @@
  Description:  Sailing Child Theme
  Author:       ThimPress
  Author URI:   http://thimpress.com
- Template:     sailing3
- Version:      1.0.1
+ Template:     sailing4
+ Version:      1.0.2
  Text Domain:  sailing-child
 */
+/*upgraded parent theme to v4*/
 
 .rooms .hb_room .title h4 .check-availability {
  	display: none; 
